@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Soumyajit Chatterjee  
+- Certification: Version Control by Meta  
 
 ## Instructions
 Please replace the placeholders with your details:
